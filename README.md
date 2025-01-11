@@ -10,7 +10,7 @@ Bash script to execute after 3x-ui installation to automatically add self-signed
 1. Run after installation of 3x-ui panel
 
 ```
-bash <(curl -Ls https://github.com/SibMan54/3x-ui-auto_add_ssl/blob/22ac3e9b2bbfd8b21d5da7367d2586b2bd75cd26/3x-ui-autossl.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/SibMan54/3x-ui-auto_add_ssl/refs/heads/main/3x-ui-autossl.sh)
 ```
 2. Restart the panel
 
